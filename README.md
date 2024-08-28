@@ -1,12 +1,8 @@
-# Array
-Esse projeto foi feito para ensinar a adicionar e procurar elementos dentro de uma Array, onde utilizamos:
-- Unshift para adicionar no inicio
-- Splice para adicionar um elemento no meio 
-- Push para adicionar no final
-- IndexOf para localizar a ocorrencia
-- LastIndexOf para localizar a ultima ocorrencia do valor digitado.
-- includes para verificar se existe ou não a ocorrencia.
-- Entre outras opções.
+# Lista de convidados
+Esse projeto foi desenvolvido para criar uma lista de convidados para uma festa.
+Ele é baseado em 2 caixas de preenchimento, 1 para preencher o nome do convidado e outra para preencher o nome de quem convidou.
+O botão para verificar está com uma regra, dizendo que só irá aparecer a mensagem 'Você pode Entrar' caso 'nomeConvidado' esteja na lista 
+
 
 ## 🚀 Tecnologias
 
